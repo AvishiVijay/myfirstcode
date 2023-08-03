@@ -1,0 +1,20 @@
+.abc{
+    background-color: lightgrey;
+    color: green !important ;
+}
+
+.xyz{
+    color: orange;
+    font-size: 60px;
+    font-family: cursive;
+    
+}
+
+#yourid{
+    background-color: aliceblue;
+}
+
+#myid{
+    font-size: 80px;
+    color: brown
+}
